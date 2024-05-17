@@ -1,6 +1,5 @@
 # Self-Driving-Cars-RaspberryPi
 Dataset traning model Traffic-Sign: https://drive.google.com/drive/folders/1jVlHyXA7K_qeX94pjMf5qUf6KP4ZWq0y
-[![Watch the video]]([https://www.youtube.com/embed/APOPm01BVrk](https://www.youtube.com/watch?v=EeG5gKwpgBk))
 
-[<img src="[https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg](https://www.youtube.com/watch?v=EeG5gKwpgBk)" width="600" height="300"
-/>]([https://www.youtube.com/embed/APOPm01BVrk](https://www.youtube.com/watch?v=EeG5gKwpgBk))
+https://github.com/OnlyBiggg/Self-Driving-Cars-RaspberryPi/assets/133686482/a8bc05e3-e93e-4e62-8402-28199641a3b1
+
