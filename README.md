@@ -7,8 +7,8 @@ OpenCV to acquire lane boundaries.
 2. Traffic-sign Recognition: A Convolutional Neural Network (CNN) model is employed to recognize each
 type of sign
 
-
-Dataset traning model Traffic-Sign: https://drive.google.com/drive/folders/1jVlHyXA7K_qeX94pjMf5qUf6KP4ZWq0y
-
+- Dataset traning model Traffic-Sign: [TrainData](https://drive.google.com/drive/folders/1jVlHyXA7K_qeX94pjMf5qUf6KP4ZWq0y)
+- Layer model CNN:
+  
 https://github.com/OnlyBiggg/Self-Driving-Cars-RaspberryPi/assets/133686482/a8bc05e3-e93e-4e62-8402-28199641a3b1
 
